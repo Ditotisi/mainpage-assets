@@ -1,0 +1,9 @@
+<!---CSS---!>
+font-family: 'Public Sans', sans-serif;
+font-family: 'The Nautigal', cursive;
+'public': ['Public\\ Sans', 'sans-serif'],
+'nauti': ['The\\ Nautigal', 'cursive']
+<!---CDN---!>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Public+Sans&family=The+Nautigal:wght@400;700&display=swap" rel="stylesheet"> 
